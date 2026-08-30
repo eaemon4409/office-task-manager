@@ -46,7 +46,7 @@ class TaskTrackerTest extends TestCase
         $response = $this->get(route('dashboard'));
 
         $response->assertStatus(200);
-        $response->assertSee('Office Task Tracker');
+        $response->assertSee(config('office.app_name'));
         $response->assertSee('Pending Task');
         $response->assertSee('33.3%'); // 1 of 3 completed
     }
