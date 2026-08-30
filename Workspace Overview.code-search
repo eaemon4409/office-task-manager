@@ -1,0 +1,9 @@
+# Query: Workspace Overview
+# ContextLines: 1
+
+1 result - 1 file
+
+resources\views\dashboard.blade.php:
+  8          <h2 class="fw-bold mb-1">
+  9:             <i class="fa-solid fa-gauge-high text-primary me-2"></i> Overview
+  10          </h2>

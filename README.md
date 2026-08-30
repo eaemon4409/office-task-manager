@@ -1,4 +1,4 @@
-# Office Task Tracker 🚀
+# ASTGD Task Tracker 🚀
 
 A modern, production-grade **Office Task Tracker** web application built with **Laravel 13**, **PHP 8.3+**, and **Bootstrap 5.3**. Designed for fast-paced office environments to seamlessly assign, track, filter, and analyze operational tasks.
 
